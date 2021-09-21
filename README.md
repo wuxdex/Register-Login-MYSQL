@@ -1,4 +1,4 @@
-# Register-Login-MYSQL-
+# Register-Login-MYSQL
 ### Merhabalar
 PHP diline yeni başlayan arkadaşlar için dili basit bir şekilde öğrenmeleri için bir kayıt sistemi paylaşmak istedim. Kayıt olduğunuzda veritabanına kayıt ediyor ve giriş yaptığınızda veritabanında kullanıcı varsa giriş yapıyor eğer yoksa hata veriyor. Kodları anlaşılır bir şekilde yazdığım için yeni başlayan arkadaşlarım anlayacaktır. Umarım işinize yarar.
 
